@@ -1,1 +1,1 @@
-Sitemap: /adam-blog/sitemap.xml
+Sitemap: /test.jekyll.blog/sitemap.xml
